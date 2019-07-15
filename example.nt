@@ -1,0 +1,2 @@
+<http://example.org/QuitStore> <http://example.org/hasThePropertyTo> <http://example.org/PushDataToARemoteRepo> .
+<http://example.org/QuitStore> <http://example.org/maybeHasThePropertyTo> <http://example.org/PullDataFromARemoteRepo> .
